@@ -171,6 +171,8 @@ var sapXepSinhVien = function() {
 
 var def = function() {
     console.log('def');
+}
+
 var abc = function() {
     console.log('abc');
 }
