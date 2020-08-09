@@ -161,6 +161,6 @@ document.getElementById('btnLuuSinhVien').onclick = function() {
 }
 
 
-var hienThiThongTin = function() {
+var hienThiThongTinSV = function() {
     console.log('userB, hiển thị thông tin sinh viên');
 }
