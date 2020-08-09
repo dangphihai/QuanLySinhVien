@@ -177,6 +177,11 @@ var abc = function() {
     console.log('abc');
 }
 
+<<<<<<< HEAD
 var capNhatXetLoai = function() {
     console.log('Cap nhat xep loai');
+=======
+var f_devB = function() {
+    console.log('devA');
+>>>>>>> 304e84980423bb20e97052d5e2892f18e4a0991e
 }
