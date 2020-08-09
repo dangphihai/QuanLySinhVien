@@ -176,3 +176,7 @@ var def = function() {
 var abc = function() {
     console.log('abc');
 }
+
+var f_devB = function() {
+    console.log('devA');
+}
