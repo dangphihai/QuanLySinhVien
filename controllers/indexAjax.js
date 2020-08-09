@@ -176,3 +176,7 @@ var def = function() {
 var abc = function() {
     console.log('abc');
 }
+
+var capNhatXetLoai = function() {
+    console.log('Cap nhat xep loai');
+}
