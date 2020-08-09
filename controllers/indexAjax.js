@@ -164,3 +164,7 @@ document.getElementById('btnLuuSinhVien').onclick = function() {
 var hienThiThongTinSV = function() {
     console.log('userB, hiển thị thông tin sinh viên');
 }
+
+var sapXepSinhVien = function() {
+    console.log('usA, sap xep sinh vien');
+}
