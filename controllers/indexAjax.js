@@ -168,3 +168,7 @@ var hienThiThongTinSV = function() {
 var sapXepSinhVien = function() {
     console.log('usA, sap xep sinh vien');
 }
+
+var def = function() {
+    console.log('def');
+}
